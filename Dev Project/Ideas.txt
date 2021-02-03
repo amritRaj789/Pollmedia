@@ -1,0 +1,69 @@
+Polling site: 
+
++ves: 	it would be concise
+		a quick, one-stop, go-to-site for knowing the popular opinion on some topic
+		we could expand this to different things and topics
+		to create real growth in terms of user-participation we gotta make it accessible for anyone to create their own poll
+		it could also have a professional side to it
+			like an admin can create a poll and sent invite and control participation rights
+			like the class of 9-A wishes to go on a school trip but they have 3 places on mind (The teacher creates the poll and provides access to only the students of the class to poll so that nobody else can poll in) Polls would be recorded and logged or could be anonymous. Why don't they simple do a show of hands. Well, it's less professional for one. They cannot do it if the class is not in session offline ( like on the weekends or during a Pandemic). Could be difficult to count if student strength is large, difficult also to keep track if there is a constant modification in polling subjects. They cannot do it for someone who's not present at that instance.
+
+-ves : 		This seems to be purely functional, there is 
+			nothing interesting going on to extend user-interaction duration.
+			A poll is just a poll after all. Yes or No, and percentages. Thats it.
+			Well I am gonna rest my case here as I just found there are numerous polling sites already on the market which validates the availability of a demand for this service.
+
+
+03.02.2021 :
+
+Today I will lay the foundation of this project.
+
+Rationale behind choosing this project:
+	I wanted to do some project which is comparatively less common and hasn't been made trite by gazillions previous attempts by others
+
+	Quite Frankly, I didn't hope I would find this many pre-existing products.
+	But luckily, there still is a core concept in my idea which I am yet to see in others.
+	At first glance, although this may seem to be basic but it can really get me a good experience working with a variety of web technologies
+
+	I will have to use databases to store the poll data, learn about authentication, can add a google-sign-in API, make it update real-time, integrate comments discussion which can be really tricky. Overall to make this performant I will have to deal with a lot of new stuff.
+
+	Last but not the least, it conforms to my "Facebook-rip-off Theory" (A theory which states that any individual feature in Fb can be made into a stand-alone service and it can garner a large user base)
+
+
+Codename : Dugong
+
+Initial Survey
+
+Let me first look at few of the popular pre-existing products
+
+Direct Poll : ugly UI, not so easy to get started
+Poll-maker	: ready to post question directly on the homepage provides a lot of nifty features, could improve the UI though, has quiz maker and survey maker too
+Easypolls	: really old-looking UI, has an option for user to see history of polls that they had created, provides a preview-window
+SurveyMonkey : Claim to be the industry leaders when it comes to surveys (20 million questions answered daily). Geared more towards enterprise and corporate clients.
+
+Mentimeter 	: Cool and clean looking UI. provides clever infographics based on the polls. But polling is an auxiliary feature, not the core one.
+
+Polleverywhere : I like its UI and functionality but again they do other things of which polling is a part.
+
+Straw Poll 	: Uses twitch account ( kind of a bummer )
+
+Fast Poll : This comes the closest to my vision of Polling. It has a dashboard feature where users can see their activity stats. It even has the option to list public polls.
+
+
+After looking at all these services, I am quite certain that although these are great services catering to different needs, they all lack the social-media look&feel, and a thriving community around it. So I can leverage on this and make my app stand out.
+
+How do I proceed?
+
+I'll spend today in outlining the app. Gotta be careful to keep it simple at the start, lest I get overwhelmed and give up.
+
+By 7th February I should at least have the front-end part drafted.
+7th- 15th I'll focus on the backend and add sign-in feature.
+Rest 15 days I'll spend on polishing my app and improving the performance if possible
+
+
+
+
+
+STEP 1 : 
+
+Creating Figma mockups
